@@ -38,7 +38,7 @@ class Header extends Component {
                 <Typical steps={[name]} wrapper="p" />
               </h1>
               <Typical className="title-styles" steps={[title]} wrapper="p" />
-              {/* <Switch
+              <Switch
                 checked={this.state.checked}
                 onChange={this.onThemeSwitchChange}
                 offColor="#baaa80"
@@ -77,7 +77,7 @@ class Header extends Component {
                   ></span>
                 }
                 id="icon-switch"
-              /> */}
+              />
             </div>
           </div>
         </div>
