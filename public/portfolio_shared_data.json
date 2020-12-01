@@ -1,16 +1,16 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "title": "Front-end Developer",
+      "name": "Vallabh Saklani",
+      "title": "Web Developer",
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Vallabh26",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/vallabhsaklani",
           "class": "fab fa-instagram"
         }
       ],
