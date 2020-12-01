@@ -29,8 +29,13 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
           "level": "80"
         },
         {
@@ -52,11 +57,6 @@
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
         },
         {
           "name": "MySql",
