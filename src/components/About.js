@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 // import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
+import myPDF from './VallabhSaklani.pdf'
 // import vueIcon from "@iconify/icons-logos/vue";
 
 class About extends Component {
@@ -81,6 +82,9 @@ class About extends Component {
                     <br />
                     <br />
                     {about}
+                    <a className="resume-txt"  href={myPDF} download="Vallabh_resume.pdf">
+                     {"  "}  Download my resume
+                    </a>
                   </div>
                 </div>
               </div>
